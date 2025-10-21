@@ -57,7 +57,7 @@
 |   7  | 《IDSA Position Paper GAIA-X and IDS》                                    |                                                    | https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Position-Paper-GAIA-X-and-IDS.pdf |
 |   8  | 《可信数据空间技术架构》                      | 中国数据标准化技术委员会                            | https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/0430/ff808081-960ee580-0196-8636bb64-04ce.pdf |
 
-![替代文本](图片路径)
+![架构对比](1.png)
 
 ## 2.数据空间连接器
 | Id  | Item                          | Publisher | Open-Code                                                          |
@@ -73,7 +73,7 @@
 |   9  | Trusted Connector             |           | https://github.com/Fraunhofer-AISEC/trusted-connector               |
 
 
-![替代文本](图片路径)
+![数据连接器对比](2.png)
 
 ## 3.核心技术相关
 
